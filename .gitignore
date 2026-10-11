@@ -1,0 +1,6 @@
+*.wav
+*.pkl
+*.jsonl
+work/
+__pycache__/
+.ipynb_checkpoints/

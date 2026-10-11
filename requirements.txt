@@ -1,0 +1,8 @@
+# Run on Kaggle (GPU T4, Internet on). Kaggle already provides torch, transformers, librosa,
+# scikit-learn, lightgbm, shap, spacy, pandas, numpy, matplotlib, seaborn, soundfile.
+faster-whisper
+jiwer
+sentence-transformers
+wordfreq
+bitsandbytes
+accelerate
